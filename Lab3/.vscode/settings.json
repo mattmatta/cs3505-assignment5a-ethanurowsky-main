@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/root/cs3505/Lab3",
+            "binaryPath": "/root/cs3505/Lab3/car2",
+            "binaryArgs": []
+        }
+    ]
+}
